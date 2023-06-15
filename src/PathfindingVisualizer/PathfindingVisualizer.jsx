@@ -441,34 +441,7 @@ Dijkstra's
   Depth First Search
 </Button>
 </div>
-{this.state.isDesktopView ? (
-        
-          <div className='mx-2'>
-            <Button variant="contained" disableElevation onClick={() => this.toggleView()} className='mx-2'>
-    Mobile View
-      </Button>
-            
-          </div>
-   
-        ) : (
-          <div className='mx-2'>
-            <Button variant="contained" disableElevation onClick={() => this.toggleView()} className='mx-5'>
-          Desktop
-      </Button>
-            
-          </div>
-          
-        )}
 
-<TextField
-      label="Number"
-      type="number"
-      value={value}
-      onChange={handleChange}
-      InputProps={{ inputProps: { min: 0 } }}
-    />
-    <Button variant="contained" onClick={() => console.log(value)}>Submit</Button>
-    
 
 </div>      
          
