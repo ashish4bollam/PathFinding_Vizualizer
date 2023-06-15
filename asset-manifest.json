@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PathFinding_Vizualizer/static/css/main.bb8bbaf4.css",
+    "main.js": "/PathFinding_Vizualizer/static/js/main.775eea8d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PathFinding_Vizualizer/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/PathFinding_Vizualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PathFinding_Vizualizer/index.html",
+    "main.bb8bbaf4.css.map": "/PathFinding_Vizualizer/static/css/main.bb8bbaf4.css.map",
+    "main.775eea8d.js.map": "/PathFinding_Vizualizer/static/js/main.775eea8d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PathFinding_Vizualizer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb8bbaf4.css",
+    "static/js/main.775eea8d.js"
+  ]
+}
